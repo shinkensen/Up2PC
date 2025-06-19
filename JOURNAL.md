@@ -10,3 +10,8 @@ Here are some pictures of me making the cad model, and one of the laptop mainboa
 ![Uploading Screenshot 2025-06-18 232320.png…]()
 ![Screenshot 2025-06-18 232250](https://github.com/user-attachments/assets/c9a40e90-33d1-4f06-b8ab-ded4a38786a8)
 
+Day 2: Realized I can use slightly better components (i9-10980hk) but the problem is that its a bit more expensive and I need a seperate ccoling solution so it will be a bit janky
+I honestly dont know if the 3d printing is going to be free, cheap, or expensive so Im asking in the slack server.
+I'm probably going to submit the project proposal thing today because I'm also working on SOM and I want to see of this gets approved
+I'll probably end up paying for like $20-$30 out of pocket if i go the i9 route (I really want to).
+Its gonna be harder but its also way better and more fun. Hopefully it dosent go out of stock.
