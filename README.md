@@ -9,7 +9,7 @@ My project idea:
   interest in this topic.
 
   How:
-    I will make the pc by using a Cheap laptop mainboard (the one I'm looking at right now costs $60 and has an i7-9850H) which has basically every component, and also some M.2 ssds, and soddimm ddr4 ram which will cost arround $40. 
+    I will make the pc by using a Cheap laptop mainboard (the one I'm looking at right now costs $60 and has an i7-9850H) which has basically every component, and also a M.2 ssd (, and soddimm ddr4 ram which will cost arround $40. 
     I will also need a dell power cable for this since it was originally in a laptop($12). Next, I need a case which I will do out of 3d printing/cad using the hack club service(~$15). I am making the CAD design for a traditional Mini pc/SFF design with a box like figure, but with cooling vents and io port cuttouts. 
     I will be designing it in a way so that the dimensions are on point with a dell 5501 (the actual laptop) so that it all fits perfectly. Additionally, I will be making it in a way so that it is printed in 2 pieces, the body and the cover so that its detachable for maitanence.
     One major benefit of using a buisness laptop's mainboard like this, is that in the future I can very easilly upgrade to a 32gb or even 64gb ram system and even a 4tb nvme ssd, also altough the current wif card on it is a wifi 5, It can be easily upgraded to a 6 or 6E.
