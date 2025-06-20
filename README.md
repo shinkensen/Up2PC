@@ -16,3 +16,5 @@ My project idea:
     Also, one future addon to this project is adding a screen, keyboard, trackpad, and a possible webcam to make this its own custom laptop that is readilly upgradable and very versatile. To finish up that leaves $20 which can accomadate for taxes or for maybe a better ssd, lighting, hdmi cables and more niche addons.
     Overall, I think this project has a lot of capacity and has the chance to be a project I work on and use daily for the next 
   
+BOM:
+![Screenshot 2025-06-20 004843](https://github.com/user-attachments/assets/ce3c307f-29c8-4285-aee5-b542a40538fa)
