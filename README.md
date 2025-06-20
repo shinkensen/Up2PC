@@ -17,5 +17,7 @@ My project idea:
     Overall, I think this project has a lot of capacity and has the chance to be a project I work on and use daily for the next 5-7 years. Also this is something that I can proudly show to others as a cheap, powerful system that I build by recycling old components and restoring them to be a capable machine like this.
 
 Aditional: Up2PC is representative of how im upcycling a electronic into a working desktop pc that I will use daliy.
+
+Budget and target: This all fits within the $150 budget for a 6-point project!
 BOM:
 ![Screenshot 2025-06-20 004843](https://github.com/user-attachments/assets/ce3c307f-29c8-4285-aee5-b542a40538fa)
