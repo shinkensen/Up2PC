@@ -15,3 +15,5 @@ I honestly dont know if the 3d printing is going to be free, cheap, or expensive
 I'm probably going to submit the project proposal thing today because I'm also working on SOM and I want to see of this gets approved
 I'll probably end up paying for like $20-$30 out of pocket if i go the i9 route (I really want to).
 Its gonna be harder but its also way better and more fun. Hopefully it dosent go out of stock.
+
+Technically Day 3: Decided on a Cardboard Case if the 3d printing is too big, finalized the BOM, and Finished up the Cad, will finish up submission requirements and submit;
